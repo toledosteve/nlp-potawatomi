@@ -5,3 +5,6 @@ postprocess
 preprocess
 corpus
 /*.py
+scratchpad
+.env
+!index.py
